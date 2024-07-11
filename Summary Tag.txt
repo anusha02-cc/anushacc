@@ -1,0 +1,43 @@
+﻿HTML Program using <summary> Tag
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+    <title>Summary Example</title>
+    <style>
+        body {
+            text-align: center;
+        }
+
+
+        h1 {
+            color: rgb(48, 45, 226);
+        }
+    </style>
+</head>
+
+
+<body>
+    <h1>Hello michael!</h1>
+    <details>
+        <summary>
+            Click here!
+        </summary>
+        <p>
+            Have a great day:).
+        </p>
+    </details>
+
+
+</body>
+
+
+</html>
