@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Anusha CC</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .objective {
+            margin-bottom: 20px;
+        }
+        .education {
+            margin-bottom: 20px;
+        }
+        .skills {
+            margin-bottom: 20px;
+        }
+        .hobbies {
+            margin-bottom: 20px;
+        }
+        .projects {
+            margin-bottom: 20px;
+        }
+        .certifications {
+            margin-bottom: 20px;
+        }
+        .declaration {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="contact-info">
+        <h1>Anusha CC</h1>
+        <p>Masters of Computer Applications</p>
+        <p>Phone: 9886491745</p>
+        <p>Email: <a href="mailto:anushacc02@gmail.com">anushacc02@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/anusha-cc-65900b256">Anusha CC's LinkedIn Profile</a></p>
+    </div>
+
+    <div class="objective">
+        <h2>Objective:</h2>
+        <p>To secure a position and be a part of progressive organization that give scope to enhance my Knowledge and Skills, which can be used for organization growth, personal growth and contribute to the organization success.</p>
+    </div>
+
+    <div class="education">
+        <h2>Education:</h2>
+        <p><strong>Jyoti Nivas College Autonomous, Post Graduate Center, Bangalore</strong><br>
+        2023 - 2025<br>
+        Masters of Computer Application (Pursuing)</p>
+
+        <p><strong>Amrita Vishwa Vidyapeetham, MYSORE.</strong><br>
+        2020 - 2023<br>
+        BCA DATA SCIENCE<br>
+        CGPA: 7.19</p>
+
+        <p><strong>Vijaya Vittala Vidyashala, MYSORE.</strong><br>
+        2018 - 2020<br>
+        PUC (PCMC), Karnataka Pre-University Board<br>
+        Percentage: 65%</p>
+
+        <p><strong>Vidya Vardhaka School, MYSORE</strong><br>
+        2018<br>
+        SSLC, State<br>
+        Percentage: 82%</p>
+    </div>
+
+    <div class="skills">
+        <h2>Skills:</h2>
+        <p>Python, HTML, SQL, EXCEL, TABLEAU</p>
+    </div>
+
+    <div class="hobbies">
+        <h2>Hobbies:</h2>
+        <p>Mandala Art, dance, Reading self help books, journaling</p>
+    </div>
+
+    <div class="projects">
+        <h2>Projects:</h2>
+        <ul>
+            <li>Mini Project on Hospital Management System</li>
+            <li>Android Project on BASV App</li>
+        </ul>
+    </div>
+
+    <div class="certifications">
+        <h2>Certifications:</h2>
+        <ul>
+            <li>Course on Python programming language with certification</li>
+            <li>Seminar on Truecaller search optimization using Trie on Jan 21, 2022 with certification</li>
+            <li>Seminar on How Swiggy Chatbot works on Feb 24th, 2022 with certification</li>
+            <li>Seminar on Python learning machine project with certification</li>
+            <li>Seminar on Amazon Go - Future of Shopping with certification</li>
+        </ul>
+    </div>
+
+    <div class="declaration">
+        <p><strong>Declaration:</strong></p>
+        <p>I hereby declare that the above-mentioned information is true and sincerely to the best of my knowledge. If given a chance to work in an esteemed organization like yours, I promise I would prove to be the best through my hard work and commitment.</p>
+    </div>
+</body>
+</html>
